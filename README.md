@@ -1,2 +1,2 @@
-# rishikeshram.github.io
-My personal blog
+# RishikeshRam
+My personal Blog
